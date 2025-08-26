@@ -18,9 +18,9 @@ console.log(favoriteLanguage);
 
 // tast 03
 const name1 = "chyon";
-name1 = " it cant be reassign";
+//name1 = " it cant be reassign";
 const age1 = 21;
-age1 = " const reassign hoi na";
+//age1 = " const reassign hoi na";
 const isStudent1 = true;
 const favoriteLanguage1 = "javaScript"
 
