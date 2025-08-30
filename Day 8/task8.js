@@ -1,6 +1,6 @@
 console.log("Execution Context")
 
-const message = "I can do it";
+const message1 = "I can do it";
 
 function sum(a, b) {
     const result = a + b;
@@ -20,3 +20,4 @@ function getResult(a, b) {
 }
 
 getResult(8, 5);
+
